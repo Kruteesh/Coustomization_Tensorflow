@@ -2,6 +2,8 @@
 
 1/tutorials/data/*
 
+1/tutorials/models/Vgg19.h5
+
 2/programming_assignment/data/*
 
 2/readings/data/*
